@@ -8,6 +8,7 @@ dependencies = [
     "datasets[audio]>=4.0.0",
     "evaluate>=0.4.5",
     "jiwer>=4.0.0",
+    "peft>=0.17.1",
     "tensorboard>=2.20.0",
     "tensorboardx>=2.6.4",
     "transformers[torch]>=4.56.1",
